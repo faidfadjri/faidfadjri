@@ -2,7 +2,7 @@
 
 Hello there! I'm Faid Fadjri, a dedicated and experienced fullstack developer who finds joy in crafting remarkable web solutions. With a solid 3 years of hands-on experience in the dynamic world of web and software development.
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=faidfadjri)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=faidfadjri&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 ## 📊 Skillset Proficiency
 
