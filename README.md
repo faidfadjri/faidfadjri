@@ -31,7 +31,7 @@ I am a dedicated **Fullstack Developer** with over 5 years of experience in buil
 #### [Akastra Access (SSO)](https://access.akastra.id)
 A centralized Single Sign-On platform implementing **OAuth 2.0** for enterprise-level security. Built with **Golang** to ensure high performance and reliability.
 
-#### [Real-time Chat Engine](https://chat.faidfadjri.space)
+#### [Real-time Chat Engine](https://github.com/faidfadjri/realtime-chat)
 A fullstack real-time communication platform utilizing **Ruby on Rails, React, and Redis** for instant message delivery and state management.
 
 ---
