@@ -38,11 +38,6 @@ A fullstack real-time communication platform utilizing **Ruby on Rails, React, a
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faidfadjri&show_icons=true&theme=tokyonight&count_private=true" alt="Faid's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faidfadjri&layout=compact&theme=tokyonight&hide=html,css" alt="Faid's Top Languages" width="45%" />
-</p>
-
-<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faidfadjri&theme=tokyonight" alt="Detailed Stats" width="94%" />
 </p>
 
